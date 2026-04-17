@@ -63,6 +63,7 @@ Lý do: các từ như **"rất"**, **"cũng"**, **"quá"** mang ý nghĩa quan 
 ###  Quá trình huấn luyện
 - Hội tụ từ **epoch 2–3**
 - Sau đó xuất hiện **overfitting**
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/68f745e0-51f9-48ac-9962-f8517b6793c3" />
 
 ###  Regularization
 - `hidden_dropout`
